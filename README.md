@@ -1,2 +1,4 @@
 # slitherbot
-A Snake robot with 3D printed skin actuated by micro-servos
+
+Detailed build and assembly instructions can be found at:
+https://hackaday.io/project/178463
